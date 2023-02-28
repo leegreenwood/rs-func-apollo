@@ -1,4 +1,4 @@
-import puppeteer from 'puppeteer';
+import {puppeteer} from 'puppeteer';
 //const config = require("./config");
 //var fs = require("fs");
 
