@@ -1,6 +1,6 @@
-const puppeteer = require("puppeteer");
+import puppeteer from 'puppeteer';
 //const config = require("./config");
-var fs = require("fs");
+//var fs = require("fs");
 
 module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
